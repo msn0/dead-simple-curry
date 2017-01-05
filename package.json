@@ -1,0 +1,38 @@
+{
+  "name": "dead-simple-curry",
+  "version": "1.0.0",
+  "description": "The simplest currying ever :)",
+  "main": "dist/curry.js",
+  "scripts": {
+    "test": "ava",
+    "prepublish": "webpack -p"
+  },
+  "keywords": [
+    "curry",
+    "currying",
+    "partial"
+  ],
+  "author": "Michał Jezierski <ambinanitelo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "babel-cli": "^6.18.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.18.0",
+    "webpack": "^2.2.0-rc.3"
+  },
+  "ava": {
+    "files": [
+      "spec.js"
+    ],
+    "source": [
+      "index.js"
+    ],
+    "failFast": true,
+    "powerAssert": true,
+    "require": [
+      "babel-register"
+    ],
+    "babel": "inherit"
+  }
+}
