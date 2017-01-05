@@ -29,4 +29,4 @@ Don't forget to take a look at [the specification](spec.js).
 
 # Credits
 
-[Currying vs Partial Application](http://www.datchley.name/currying-vs-partial-application/) by David Atchley. 
+[Currying vs Partial Application](http://www.datchley.name/currying-vs-partial-application/) by Dave Atchley. 
