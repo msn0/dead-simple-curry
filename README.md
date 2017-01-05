@@ -1,4 +1,4 @@
-# dead simple curry
+# dead simple curry [![Build Status](https://travis-ci.org/msn0/dead-simple-curry.svg?branch=master)](http://travis-ci.org/msn0/dead-simple-curry)
 
 > Probably the simplest currying ever :) 
 
