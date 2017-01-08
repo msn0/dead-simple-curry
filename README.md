@@ -10,6 +10,24 @@ npm i dead-simple-curry --save
 
 # Usage
 
+Yes! It's dead simple.
+
+```js
+const curry = require('dead-simple-curry');
+
+function multiply(a, b) {
+  return a * b;
+}
+
+const doubleMe = curry(multiply)(2);
+
+doubleMe(3) → 6
+doubleMe(7) → 14
+// ...
+```
+
+Some more useful examples:
+
 ```js
 import curry from 'dead-simple-curry';
 
