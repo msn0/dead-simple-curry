@@ -25,7 +25,7 @@ playEvent('funny cats');
 
 ```
 
-Don't forget to take a look at [the specification](spec.js).
+Don't forget to take a look at [the specification](https://github.com/msn0/dead-simple-curry/blob/master/test.js).
 
 # Credits
 
