@@ -2,6 +2,8 @@
 
 > Probably the simplest currying ever :) 
 
+![](./example.gif)
+
 # Installation
 
 ```
