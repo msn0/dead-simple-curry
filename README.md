@@ -2,7 +2,7 @@
 
 > Probably the simplest currying ever :) 
 
-![](https://github.com/msn0/dead-simple-curry/blob/master/example.gif)
+![](https://raw.githubusercontent.com/msn0/dead-simple-curry/master/example.gif)
 
 # Installation
 
