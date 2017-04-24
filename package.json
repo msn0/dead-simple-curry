@@ -3,6 +3,10 @@
   "version": "1.1.1",
   "description": "The simplest currying ever :)",
   "main": "dist/curry.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msn0/dead-simple-curry.git"
+  },
   "scripts": {
     "test": "ava",
     "prepublish": "webpack -p"
